@@ -2,6 +2,9 @@
 
 A simple and modern full-stack ToDo list application built using **React (Vite)** for the frontend and **Spring Boot** for the backend, with PostgreSQL as the database.
 
+#THIS PROJECT IS UNDER WORK.
+#FEEL FREE TO CONTRIBUTE
+
 ## 🚀 Features
 
 - Add, view, and delete tasks
